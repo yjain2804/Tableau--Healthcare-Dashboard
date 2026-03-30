@@ -15,7 +15,7 @@ exploratory analysis, and stakeholder-ready visualization.
 ## Dataset
 - Source: Kaggle — Healthcare Dataset
 - Raw Records: 55,500
-- Records after Deduplication: [paste your number here]
+- Records after Deduplication: 704
 - Fields: 15 columns covering patient demographics, clinical data, 
   operational data, and financial data
 - Note: Dataset is synthetically generated with deliberate 
@@ -103,7 +103,7 @@ dataset characteristics summary, and readmission methodology notes
   contract details
 
 ## Tableau Public Dashboard
-[Insert your Tableau Public URL here]
+https://public.tableau.com/views/TableauHealthcare_17745050509740/Dashboard5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Relevance to Healthcare Analytics
 This project reflects analytical approaches applied during a 
